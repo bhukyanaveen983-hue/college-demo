@@ -1,4 +1,4 @@
 # college-demo
 this is my first repository 
 <br>
-Auther -Naveen
+Auther -Naveen(college new)
